@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222903516105",
+    "project_id": "fininfocom-c52b7",
+    "storage_bucket": "fininfocom-c52b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222903516105:android:2e36565706f655f0aa4618",
+        "android_client_info": {
+          "package_name": "com.example.recyclerviewinfocom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoT7_ZbVhp-hXMHC6fBr5en0ZvxBLqIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
